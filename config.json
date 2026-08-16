@@ -6,5 +6,11 @@
       "body": "밥상 사진 한 장으로 영양 관리를 시작할 수 있습니다.",
       "date": "2026-08-10"
     }
+  ],
+  "premiumCodes": [
+    {"code": "FAMILY2026", "expiresAt": "2027-12-31", "note": "expiresAt 을 null로 두면 기간 만료 없이 계속 이용 가능"},
+    {"code": "NAMYOUNMYEONG01", "expiresAt": null, "note": "노트 안에 작성한 것은 앱에서 아예 안 읽음."},
+    {"code": "FUFUFUFOODGUARD260817", "expiresAt": null, "note": "입력하는 그 순간에만 GitHub 파일을 확인하고, 이후에는 본인 폰 안에 저장된 사본만 계속 봄. 여기에 있는 코드를 나중에 바꾸든 지우든, 이미 쿠폰을 입력한 사람의 폰 안에 있는 사본에는 영향이 없다."},
+    {"code": "FUFUFUFOODGUARD2608172", "expiresAt": null, "note": "만약 쿠폰 번호도 유출되어서 퍼진다면 업데이트를 통해서 이 파일을 한 번씩 싹 확인하게 하면 회수가 되지만, 업데이트를 하지 않으면 그만."}
   ]
 }
